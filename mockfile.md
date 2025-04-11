@@ -31,7 +31,8 @@ Use numbers to create ordered lists. Create ordered
 sublists by adding two spaces before each number.
 
 [Bitcamp](https://bit.camp) Create a hyperlink by adding the text in brackets and the link in parenthesis.
-![Tralalero]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrainrot.fandom.com%2Fwiki%2FTralalero_Tralala&psig=AOvVaw25Z3-yUGGIuBi2-gbMVd7e&ust=1744471595574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjTrKCl0IwDFQAAAAAdAAAAABAE](https://static.wikia.nocookie.net/brainrotnew/images/a/ac/Tralalero_tralala.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250321131418))
+![Tralalero]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrainrot.fandom.com%2Fwiki%2FTralalero_Tralala&psig=AOvVaw25Z3-yUGGIuBi2-gbMVd7e&ust=1744471595574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjTrKCl0IwDFQAAAAAdAAAAABAE](https://static.wikia.nocookie.net/brainrotnew/images/a/ac/Tralalero_tralala.jpg/revision/latest/thumbnail/width/360/height/450?cb=20250321131418](https://upload.wikimedia.org/wikipedia/commons/a/a7/Example.png))
+
 *Figure 1: A cool project diagram.*
 
 Use “!” to turn a hyperlink into a captioned image. The
