@@ -28,9 +28,6 @@ sublists by adding two spaces before each number.
 
 [Bitcamp](https://bit.camp) Create a hyperlink by adding the text in brackets and the link in parenthesis.
 
-![Caption](https://bit.camp/image.png)
-![Caption](path/to/image.png)
-
 Use “!” to turn a hyperlink into a captioned image. The
 image can be available through a link or your repository.
 
