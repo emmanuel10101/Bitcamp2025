@@ -1,4 +1,8 @@
 # Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
 ###### Heading 6
 
 Use “#” to create headers. The number of hashtags
@@ -27,6 +31,9 @@ Use numbers to create ordered lists. Create ordered
 sublists by adding two spaces before each number.
 
 [Bitcamp](https://bit.camp) Create a hyperlink by adding the text in brackets and the link in parenthesis.
+![Tralalero]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrainrot.fandom.com%2Fwiki%2FTralalero_Tralala&psig=AOvVaw25Z3-yUGGIuBi2-gbMVd7e&ust=1744471595574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjTrKCl0IwDFQAAAAAdAAAAABAE])
+
+*Figure 1: A cool project diagram.*
 
 Use “!” to turn a hyperlink into a captioned image. The
 image can be available through a link or your repository.
