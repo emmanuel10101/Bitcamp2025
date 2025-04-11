@@ -31,8 +31,6 @@ Use numbers to create ordered lists. Create ordered
 sublists by adding two spaces before each number.
 
 [Bitcamp](https://bit.camp) Create a hyperlink by adding the text in brackets and the link in parenthesis.
-![Tralalero](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrainrot.fandom.com%2Fwiki%2FTralalero_Tralala&psig=AOvVaw25Z3-yUGGIuBi2-gbMVd7e&ust=1744471595574000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjTrKCl0IwDFQAAAAAdAAAAABAE![image](https://github.com/user-attachments/assets/19e457e3-4df2-4dc4-8877-582a275a6527)
-)
 
 *Figure 1: A cool project diagram.*
 
