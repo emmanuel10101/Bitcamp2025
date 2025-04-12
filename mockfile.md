@@ -11,9 +11,7 @@ determines the type of Heading (1-6).
 Normal Text There is no special syntax for writing normal text!
 *Italic Text* Use “*” to italicize text. Place an asterisk directly before and after the line you want italicized.
 
-**Bold Text** Use two “*” to bold text. Place two asterisks directly
-
-before and after the line you want italicized.
+**Bold Text** Use two “*” to bold text. Place two asterisks directly before and after the line you want bolded.
 
 * list item
 * another list item
